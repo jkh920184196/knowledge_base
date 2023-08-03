@@ -8,6 +8,7 @@
   * [化學氣相沉積功能](page/hua-xue-qi-xiang-chen-ji-gong-neng.md)
   * [電漿增強化學氣相沉積(PECVD)](page/dian-jiang-zeng-qiang-hua-xue-qi-xiang-chen-ji-pecvd.md)
   * [PECVD的構造](page/pecvd-de-gou-zao.md)
+  * [PECVD的典型工作順序：](page/pecvd-de-dian-xing-gong-zuo-shun-xu.md)
   * [PECVD設備當中常用電漿源有哪些](page/pecvd-she-bei-dang-zhong-chang-yong-dian-jiang-yuan-you-na-xie.md)
   * [PECVD設備當中常用氣體有哪些](page/pecvd-she-bei-dang-zhong-chang-yong-qi-ti-you-na-xie.md)
   * [如何判別及控制薄膜的品質？](page/ru-he-pan-bie-ji-kong-zhi-bao-mo-de-pin-zhi.md)
