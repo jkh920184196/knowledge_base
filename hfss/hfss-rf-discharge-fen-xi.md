@@ -12,4 +12,4 @@ RF 放電分析對於預測以下應用中的電氣擊穿非常有用：
 * 再入載具和星際任務
 * 機載雷達和通信系統
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

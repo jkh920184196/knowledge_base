@@ -1,6 +1,6 @@
 # HFSS Multipaction分析
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 HFSS Multipaction 提供了一種有限元方法來模擬太空通信系統和真空電子裝置中的真空多重電子反射現象。當空間電荷在被物質包圍的封閉空間內被時諧場加速時，這些電荷可能會從物質表面撞擊電子。如果過渡時間與時諧場同步，則可以維持電子倍增，最終導致電子雪崩。
 
@@ -15,4 +15,4 @@ HFSS Multipaction 支持金屬和介質表面上的多重反射。您可以設�
 * 多重反射分析需要保存驅動端子或驅動模式解的時諧場。
 * 雖然 HFSS Multipaction 可以模擬均勻偏置，但要模擬非均勻偏置場的效果，請使用 Maxwell 近場鏈接。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
